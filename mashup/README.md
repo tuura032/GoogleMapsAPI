@@ -1,6 +1,6 @@
 # GoogleMapsAPI
 
-The course implementation of the app can be viewed <a href="http://mashup.cs50.net/">HERE</a>, whith my end result being mroe or less identical. 
+The course implementation of the app can be viewed <a href="http://mashup.cs50.net/">HERE</a>, whith my end result being more or less identical. 
 
 
 <strong><h2>Information</h2></strong>
